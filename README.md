@@ -1,5 +1,5 @@
 # Find the square root of a number
-
+## Date:
 ## AIM:
 To write a program to find the square root of a number.
 
@@ -15,10 +15,10 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-```
 Program to find the square root for the given number(newton's method) using function.
-#Register Number: 212223230169
-#Developed by: RAMYA R
+### Register Number: 212223230169
+### Developed by: RAMYA R
+```
 def newton_square_root(b):
     if b<0:
         print("The Square root is not defined for negative number")
@@ -35,8 +35,7 @@ print(f"Square root of the number: {result}")
 ```
 
 ## Output:
-![Screenshot 2024-04-15 134632](https://github.com/ramya23000505/Square-root-of-a-number/assets/149370791/474844bc-fe84-44fd-b2df-c499d64e1319)
-![Screenshot 2024-04-15 134640](https://github.com/ramya23000505/Square-root-of-a-number/assets/149370791/1ec7e6d0-1f20-4538-9b21-d113bcfb7fc0)
-
+![alt text](<5 in.png>)
+![alt text](<5 ot.png>)
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
